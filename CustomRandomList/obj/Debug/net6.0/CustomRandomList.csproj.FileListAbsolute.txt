@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.exe
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.deps.json
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.runtimeconfig.json
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.dll
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\bin\Debug\net6.0\CustomRandomList.pdb
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.dll
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\obj\Debug\net6.0\refint\CustomRandomList.dll
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.pdb
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\obj\Debug\net6.0\CustomRandomList.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Single Inheritance\CustomRandomList\obj\Debug\net6.0\ref\CustomRandomList.dll
