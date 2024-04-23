@@ -1,0 +1,14 @@
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll

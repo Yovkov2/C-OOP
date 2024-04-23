@@ -1,0 +1,14 @@
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.exe
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.deps.json
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.dll
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.pdb
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.dll
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\refint\Person.dll
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.pdb
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+C:\Users\yoan2\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\ref\Person.dll
