@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\bin\Debug\net6.0\PersonsInfo.exe
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\bin\Debug\net6.0\PersonsInfo.deps.json
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\bin\Debug\net6.0\PersonsInfo.dll
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\bin\Debug\net6.0\PersonsInfo.pdb
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\obj\Debug\net6.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\obj\Debug\net6.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\obj\Debug\net6.0\PersonsInfo.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\obj\Debug\net6.0\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\obj\Debug\net6.0\PersonsInfo.dll
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\obj\Debug\net6.0\refint\PersonsInfo.dll
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\obj\Debug\net6.0\PersonsInfo.pdb
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\obj\Debug\net6.0\PersonsInfo.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SortPeoplebyNameAge\obj\Debug\net6.0\ref\PersonsInfo.dll
