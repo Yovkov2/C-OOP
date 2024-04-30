@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.exe
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.deps.json
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.runtimeconfig.json
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.dll
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.pdb
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.dll
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\obj\Debug\net6.0\refint\SalaryIncrease.dll
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.pdb
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\SortPeoplebyNameAge\SalaryIncrease\obj\Debug\net6.0\ref\SalaryIncrease.dll
