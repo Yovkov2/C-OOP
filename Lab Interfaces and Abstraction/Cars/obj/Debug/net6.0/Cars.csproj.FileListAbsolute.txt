@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Shapes\Cars\bin\Debug\net6.0\Cars.exe
+C:\Users\yoan2\source\repos\Shapes\Cars\bin\Debug\net6.0\Cars.deps.json
+C:\Users\yoan2\source\repos\Shapes\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+C:\Users\yoan2\source\repos\Shapes\Cars\bin\Debug\net6.0\Cars.dll
+C:\Users\yoan2\source\repos\Shapes\Cars\bin\Debug\net6.0\Cars.pdb
+C:\Users\yoan2\source\repos\Shapes\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Shapes\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Shapes\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Shapes\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Shapes\Cars\obj\Debug\net6.0\Cars.dll
+C:\Users\yoan2\source\repos\Shapes\Cars\obj\Debug\net6.0\refint\Cars.dll
+C:\Users\yoan2\source\repos\Shapes\Cars\obj\Debug\net6.0\Cars.pdb
+C:\Users\yoan2\source\repos\Shapes\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Shapes\Cars\obj\Debug\net6.0\ref\Cars.dll
