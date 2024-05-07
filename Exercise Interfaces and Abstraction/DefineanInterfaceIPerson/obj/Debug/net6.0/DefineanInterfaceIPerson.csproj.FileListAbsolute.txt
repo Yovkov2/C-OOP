@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\bin\Debug\net6.0\DefineanInterfaceIPerson.exe
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\bin\Debug\net6.0\DefineanInterfaceIPerson.deps.json
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\bin\Debug\net6.0\DefineanInterfaceIPerson.runtimeconfig.json
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\bin\Debug\net6.0\DefineanInterfaceIPerson.dll
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\bin\Debug\net6.0\DefineanInterfaceIPerson.pdb
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.dll
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\obj\Debug\net6.0\refint\DefineanInterfaceIPerson.dll
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.pdb
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\DefineanInterfaceIPerson\DefineanInterfaceIPerson\obj\Debug\net6.0\ref\DefineanInterfaceIPerson.dll
