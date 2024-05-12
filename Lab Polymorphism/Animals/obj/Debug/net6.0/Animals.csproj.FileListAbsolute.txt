@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Operations\Animals\bin\Debug\net6.0\Animals.exe
+C:\Users\yoan2\source\repos\Operations\Animals\bin\Debug\net6.0\Animals.deps.json
+C:\Users\yoan2\source\repos\Operations\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+C:\Users\yoan2\source\repos\Operations\Animals\bin\Debug\net6.0\Animals.dll
+C:\Users\yoan2\source\repos\Operations\Animals\bin\Debug\net6.0\Animals.pdb
+C:\Users\yoan2\source\repos\Operations\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Operations\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Operations\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Operations\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Operations\Animals\obj\Debug\net6.0\Animals.dll
+C:\Users\yoan2\source\repos\Operations\Animals\obj\Debug\net6.0\refint\Animals.dll
+C:\Users\yoan2\source\repos\Operations\Animals\obj\Debug\net6.0\Animals.pdb
+C:\Users\yoan2\source\repos\Operations\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Operations\Animals\obj\Debug\net6.0\ref\Animals.dll
