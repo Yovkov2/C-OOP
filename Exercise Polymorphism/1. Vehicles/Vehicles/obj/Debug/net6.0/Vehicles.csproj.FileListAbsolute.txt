@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\bin\Debug\net6.0\Vehicles.exe
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\bin\Debug\net6.0\Vehicles.dll
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.dll
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Vehicles\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll
