@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Logger\Logger\bin\Debug\net6.0\Loggers.exe
+C:\Users\yoan2\source\repos\Logger\Logger\bin\Debug\net6.0\Loggers.deps.json
+C:\Users\yoan2\source\repos\Logger\Logger\bin\Debug\net6.0\Loggers.runtimeconfig.json
+C:\Users\yoan2\source\repos\Logger\Logger\bin\Debug\net6.0\Loggers.dll
+C:\Users\yoan2\source\repos\Logger\Logger\bin\Debug\net6.0\Loggers.pdb
+C:\Users\yoan2\source\repos\Logger\Logger\obj\Debug\net6.0\Loggers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Logger\Logger\obj\Debug\net6.0\Loggers.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Logger\Logger\obj\Debug\net6.0\Loggers.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Logger\Logger\obj\Debug\net6.0\Loggers.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Logger\Logger\obj\Debug\net6.0\Loggers.dll
+C:\Users\yoan2\source\repos\Logger\Logger\obj\Debug\net6.0\refint\Loggers.dll
+C:\Users\yoan2\source\repos\Logger\Logger\obj\Debug\net6.0\Loggers.pdb
+C:\Users\yoan2\source\repos\Logger\Logger\obj\Debug\net6.0\Loggers.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Logger\Logger\obj\Debug\net6.0\ref\Loggers.dll
