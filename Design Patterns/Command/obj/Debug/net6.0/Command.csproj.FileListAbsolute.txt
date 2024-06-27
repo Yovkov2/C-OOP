@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\SingletonDemo\Command\bin\Debug\net6.0\Command.exe
+C:\Users\35988\source\repos\SingletonDemo\Command\bin\Debug\net6.0\Command.deps.json
+C:\Users\35988\source\repos\SingletonDemo\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+C:\Users\35988\source\repos\SingletonDemo\Command\bin\Debug\net6.0\Command.dll
+C:\Users\35988\source\repos\SingletonDemo\Command\bin\Debug\net6.0\Command.pdb
+C:\Users\35988\source\repos\SingletonDemo\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\SingletonDemo\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\SingletonDemo\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+C:\Users\35988\source\repos\SingletonDemo\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\SingletonDemo\Command\obj\Debug\net6.0\Command.dll
+C:\Users\35988\source\repos\SingletonDemo\Command\obj\Debug\net6.0\refint\Command.dll
+C:\Users\35988\source\repos\SingletonDemo\Command\obj\Debug\net6.0\Command.pdb
+C:\Users\35988\source\repos\SingletonDemo\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+C:\Users\35988\source\repos\SingletonDemo\Command\obj\Debug\net6.0\ref\Command.dll
